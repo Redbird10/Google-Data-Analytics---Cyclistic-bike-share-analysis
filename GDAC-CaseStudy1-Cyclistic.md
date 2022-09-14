@@ -93,7 +93,7 @@ In this phase, data is organized, formatted, calculated and aggregated by rider 
 
 - Original Dataset Preview
     
-    ![Untitled](GDAC-CaseStudy1-Cyclistic/Untitled.png)
+    ![Untitled](GDAC-CaseStudy1-Cyclistic-Resources/Untitled.png)
     
 - Rides of bike type
     
@@ -381,14 +381,14 @@ A presentation with slides is designed further. Refer to the PPTX file in the ne
 - The average ride length by casual riders is
 30.1 minutes.
 
-![Untitled](GDAC-CaseStudy1-Cyclistic/Untitled%201.png)
+![Untitled](GDAC-CaseStudy1-Cyclistic-Resources/Untitled%201.png)
 
 - The overall number of rides queried is
 5.72 million.
 - Among these, 3.18 million rides are annual members trips, and 2.54 million rides are casual rider trips.
 - While the rider number of each type is not disclosed, more rides are conducted by annual members than casual riders.
 
-![Untitled](GDAC-CaseStudy1-Cyclistic/Untitled%202.png)
+![Untitled](GDAC-CaseStudy1-Cyclistic-Resources/Untitled%202.png)
 
 - (Recap)
 The overall number of rides - 5.72 million.
@@ -397,27 +397,27 @@ Casual rider trips - 2.54 million
 - Generally the proportion of rides of each bike type resembles in two rider types.
 - More Classic bikes are ridden than Electric bikes, both for annual members and casual riders.
 
-![Untitled](GDAC-CaseStudy1-Cyclistic/Untitled%203.png)
+![Untitled](GDAC-CaseStudy1-Cyclistic-Resources/Untitled%203.png)
 
 - The trend of rides by week day contrasts between annual members and casual riders.
 - Annual members has far more rides on workdays than casual riders, especially on the middle of the week.
 - Number of rides by annual members is relatively stable in general.
 - Casual riders has more rides on weekends than members, but the number drops quickly on workdays, almost half of the weekend figure.
 
-![Untitled](GDAC-CaseStudy1-Cyclistic/Untitled%204.png)
+![Untitled](GDAC-CaseStudy1-Cyclistic-Resources/Untitled%204.png)
 
-![Untitled](GDAC-CaseStudy1-Cyclistic/Untitled%205.png)
+![Untitled](GDAC-CaseStudy1-Cyclistic-Resources/Untitled%205.png)
 
 - Bar Chart (Collapsed)
     
-    ![Untitled](GDAC-CaseStudy1-Cyclistic/Untitled%206.png)
+    ![Untitled](GDAC-CaseStudy1-Cyclistic-Resources/Untitled%206.png)
     
 - Number of rides varies greatly, rising on summer and falling on winter.
 - Although generally there are more rides by members, the number of rides by casual members overtakes on mid-summer (June, July, August).
 
 🛆 The Number of Rides by Hours & Rider could also be queried and analyzed.
 
-![Untitled](GDAC-CaseStudy1-Cyclistic/Untitled%207.png)
+![Untitled](GDAC-CaseStudy1-Cyclistic-Resources/Untitled%207.png)
 
 - Frequent routes are grouped and calculated. Non-docked rides are expressed using geo-coordinates. Round rides are also marked at the end of each bar.
 - Around half of the most frequent routes are round rides, however these frequent routes are generally attributed to casual riders.
