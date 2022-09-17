@@ -452,6 +452,8 @@ Compared to casual riders:
 - Assistive rides of special bikes which accounts for 8% are not reflected in the dataset. This could bias the analysis and obstruct analyst from getting the full picture.
 - Certain data integrity problems has been encountered. Ask related managers about these issues for clarification and solve them outright when possible.
 
-[END]
+### Presentation Slides
+Please use the following link for the presentation slides.
+https://github.com/Redbird10/Google-Data-Analytics_Cyclistic-bike-share-analysis/blob/main/GDAC-CaseStudy1-Cyclistic.pptx
 
 ---
