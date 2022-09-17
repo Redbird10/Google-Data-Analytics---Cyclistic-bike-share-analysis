@@ -453,7 +453,7 @@ Compared to casual riders:
 - Certain data integrity problems has been encountered. Ask related managers about these issues for clarification and solve them outright when possible.
 
 ### Presentation Slides
-Please use the following link for the presentation slides.
+Please use the following link for the presentation slides. (GitHub doesn't support preview of slides for now, so please download the pptx file before viewing it.)
 https://github.com/Redbird10/Google-Data-Analytics_Cyclistic-bike-share-analysis/blob/main/GDAC-CaseStudy1-Cyclistic.pptx
 
 ---
