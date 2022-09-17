@@ -454,6 +454,7 @@ Compared to casual riders:
 
 ### Presentation Slides
 Please use the following link for the presentation slides. (GitHub doesn't support preview of slides for now, so please download the pptx file before viewing it.)
+
 https://github.com/Redbird10/Google-Data-Analytics_Cyclistic-bike-share-analysis/blob/main/GDAC-CaseStudy1-Cyclistic.pptx
 
 ---
